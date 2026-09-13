@@ -17,9 +17,6 @@ A lightweight Meteor Client addon for Minecraft 26.1.2 that displays Hypixel pla
 ## Features
 
 - Displays player levels directly in Meteor nametags
-- BedWars level support
-- SkyWars level support
-- TNT Tag level support
 - Total Hypixel level support
 - Meteor and Vanilla nametag themes
 - Multiple level styles
